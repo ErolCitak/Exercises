@@ -1,0 +1,8 @@
+[
+    {"CustomerID":1,"Name":"John Doe","Country":"USA","JoinDate":"2023-01-01"},
+    {"CustomerID":2,"Name":"Jane Smith","Country":"Germany","JoinDate":"2022-08-12"},
+    {"CustomerID":3,"Name":"Samuel Lee","Country":"Canada","JoinDate":"2023-05-22"},
+    {"CustomerID":4,"Name":"Maria Gonzalez","Country":"Spain","JoinDate":"2021-03-15"},
+    {"CustomerID":5,"Name":"James Brown","Country":"UK","JoinDate":"2020-07-30"},
+    {"CustomerID":6,"Name":"Cansu Koken Citak","Country":"TR","JoinDate":"2020-07-30"}
+]

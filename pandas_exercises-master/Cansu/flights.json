@@ -1,0 +1,9 @@
+[
+  {"FlightID":101,"CustomerID":1,"FlightDate":"2024-06-01","FlightCost":1200,"CampaignID":10},
+  {"FlightID":102,"CustomerID":2,"FlightDate":"2024-06-10","FlightCost":800,"CampaignID":12},
+  {"FlightID":103,"CustomerID":3,"FlightDate":"2024-04-20","FlightCost":1050,"CampaignID":14},
+  {"FlightID":104,"CustomerID":4,"FlightDate":"2024-03-15","FlightCost":1500,"CampaignID":11},
+  {"FlightID":105,"CustomerID":5,"FlightDate":"2024-02-05","FlightCost":500,"CampaignID":15},
+  {"FlightID":999,"CustomerID":6,"FlightDate":"2024-02-05","FlightCost":500}
+]
+

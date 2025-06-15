@@ -1,0 +1,12 @@
+[
+    {"FlightID":101,"CustomerID":1,"FlightDate":"2025-06-01","FlightCost":1200,"CampaignID":10},
+    {"FlightID":102,"CustomerID":2,"FlightDate":"2025-06-10","FlightCost":800,"CampaignID":12},
+    {"FlightID":103,"CustomerID":3,"FlightDate":"2025-04-20","FlightCost":1050,"CampaignID":14},
+    {"FlightID":104,"CustomerID":4,"FlightDate":"2025-03-15","FlightCost":1500,"CampaignID":11},
+    {"FlightID":105,"CustomerID":5,"FlightDate":"2025-02-05","FlightCost":500,"CampaignID":15},
+    {"FlightID":106,"CustomerID":1,"FlightDate":"2025-07-01","FlightCost":1300,"CampaignID":13},
+    {"FlightID":107,"CustomerID":2,"FlightDate":"2025-07-15","FlightCost":850,"CampaignID":16},
+    {"FlightID":108,"CustomerID":3,"FlightDate":"2025-05-01","FlightCost":1100,"CampaignID":17},
+    {"FlightID":109,"CustomerID":3,"FlightDate":"2021-05-01","FlightCost":1100,"CampaignID":17}
+
+]

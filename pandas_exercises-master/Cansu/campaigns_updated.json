@@ -1,0 +1,10 @@
+[
+    {"CampaignID":10,"CampaignName":"Summer Sale","Discount":15},
+    {"CampaignID":11,"CampaignName":"Winter Discount","Discount":20},
+    {"CampaignID":12,"CampaignName":"Spring Offer","Discount":10},
+    {"CampaignID":13,"CampaignName":"Holiday Special","Discount":25},
+    {"CampaignID":14,"CampaignName":"New Year Promo","Discount":30},
+    {"CampaignID":15,"CampaignName":"Flash Sale","Discount":5},
+    {"CampaignID":16,"CampaignName":"Autumn Discount","Discount":18},
+    {"CampaignID":17,"CampaignName":"Black Friday Sale","Discount":40}
+]
